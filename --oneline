@@ -1,0 +1,29 @@
+[33mcommit e823e315af1de64550c56a4d7f498ee81e7a1a9c[m[33m ([m[1;36mHEAD -> [m[1;32mmaster[m[33m)[m
+Author: Terry <dhesouzanorbert36@gmail.com>
+Date:   Thu Jun 30 13:18:52 2022 +0300
+
+    Interfaces used by git
+
+[33mcommit 1fccdbd738c00fb21e76c6620066b127e5245358[m
+Author: Terry <dhesouzanorbert36@gmail.com>
+Date:   Thu Jun 30 12:51:36 2022 +0300
+
+    added a paragraph
+
+[33mcommit 957a7b218ab62764bc4247a8556e22d5a4af81bf[m
+Author: Terry <dhesouzanorbert36@gmail.com>
+Date:   Fri Jun 24 21:52:54 2022 +0300
+
+    changed the body font size
+
+[33mcommit 3810c22c42f1fe65b2a10424eae24232071d7641[m
+Author: Terry <dhesouzanorbert36@gmail.com>
+Date:   Fri Jun 24 21:47:48 2022 +0300
+
+    added a heading
+
+[33mcommit 4d8c8271f9527156fb0805826b8b6ca669ca2545[m
+Author: Terry <dhesouzanorbert36@gmail.com>
+Date:   Fri Jun 24 21:42:19 2022 +0300
+
+    Added index & gitcs pages
